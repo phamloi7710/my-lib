@@ -1,5 +1,5 @@
 {
-  "name": "@loipham/my-lib",
+  "name": "@phamloi7710/my-lib-test-111",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^12.2.0",
@@ -25,7 +25,6 @@
   },
   "author": "Loi Pham",
   "license": "ISC",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phamloi7710/my-lib.git"
@@ -36,5 +35,6 @@
   "bugs": {
     "url": "https://github.com/phamloi7710/my-lib/issues"
   },
-  "homepage": "https://github.com/phamloi7710/my-lib#readme"
+  "homepage": "https://github.com/phamloi7710/my-lib#readme",
+  "devDependencies": {}
 }
